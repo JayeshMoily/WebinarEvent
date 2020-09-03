@@ -202,7 +202,16 @@
  background-color: #000;
 }
 @media (max-width: 1028px){
-
+.upper{
+    position: relative;
+    left: 25%;
+    width: 50%;
+  }
+  .lower{
+    position: relative;
+    left: 25%;
+    width: 50%;
+  }
   .date{
     text-align: center;
   }
