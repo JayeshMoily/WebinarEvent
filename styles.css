@@ -203,6 +203,9 @@
 }
 @media (max-width: 1028px){
 
+  .date{
+    text-align: center;
+  }
   .wrapper{
     margin-top: 0;
     background-color: #eebb4d;
